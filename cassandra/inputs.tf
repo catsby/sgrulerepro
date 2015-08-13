@@ -1,0 +1,1 @@
+variable "vpc_id"                { description = "VPC to put nodes in" }

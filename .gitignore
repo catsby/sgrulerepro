@@ -1,0 +1,9 @@
+.terraform
+apply
+*.tfplan
+dest
+plan
+plan-dest
+refresh
+show
+*.plan
